@@ -1,0 +1,11 @@
+{
+  "name": "sportimo_settings",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.14.1",
+    "mongoose": "^4.9.2"
+  }
+}
